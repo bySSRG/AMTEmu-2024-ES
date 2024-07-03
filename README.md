@@ -20,9 +20,9 @@ Instrucciones : ¿cómo usar?
 
 1. Desactiva la conexión a internet y antivirus/defender.
 
-2. Extrae los archivos de "AMTEmu2024-ES.rar"
+2. Extrae los archivos de "AMTEmu2024-ES.zip"
 
-3. RAR Password = bySSRG.com
+3. RAR Contraseña = bySSRG.com
 
 4. Abre/ejecuta "AMTEmu_UniPatcher_(ES by SSRG).exe"
 

@@ -14,6 +14,23 @@ al idioma español/spanish.
 
 Sin ningún tipo de lucro.
 
+-
+
+Instrucciones : ¿cómo usar?
+
+1. Desactiva la conexión a internet y antivirus/defender.
+
+2. Extrae los archivos de "AMTEmu2024-ES.rar"
+
+3. RAR Password = bySSRG.com
+
+4. Abre/ejecuta "AMTEmu_UniPatcher_(ES by SSRG).exe"
+
+¡Listo!
+
+Aclaración: si utiliza la opción "Bloq. Unl." es necesario tener 
+conexión a internet hasta qué termine el proceso. 
+
 
 Github AMTEmu (Original-EN) :https://github.com/amtemu-2024
 

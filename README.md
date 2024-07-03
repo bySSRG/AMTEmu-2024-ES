@@ -1,4 +1,4 @@
-"AMTEemu" es una herramienta creada por MASDEV 
+"AMTEmu" es una herramienta creada por MASDEV 
 para desbloquear el software de Adobe.
 
 Llevo tiempo usándola, y algo que siempre

@@ -14,3 +14,6 @@ al idioma español/spanish.
 
 Sin ningún tipo de lucro.
 
+
+Github AMTEmu (Original-EN) :https://github.com/amtemu-2024
+
